@@ -1,4 +1,4 @@
-# ([SkyCast](https://skycast-dusky.vercel.app)) 
+# [SkyCast](https://skycast-dusky.vercel.app)
 
 ## Overview
 
